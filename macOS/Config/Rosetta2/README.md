@@ -26,5 +26,5 @@ sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/microsoft/shel
 - Run script as signed-in user : No
 - Hide script notifications on devices : Not configured
 - Script frequency : Not configured
-- Mac number of times to retry if script fails : 3
+- Max number of times to retry if script fails : 3
 
